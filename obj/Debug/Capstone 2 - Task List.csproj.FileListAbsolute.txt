@@ -1,0 +1,7 @@
+C:\Users\k8e_3\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+C:\Users\k8e_3\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+C:\Users\k8e_3\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+C:\Users\k8e_3\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\Capstone 2 - Task List.csprojAssemblyReference.cache
+C:\Users\k8e_3\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\Capstone 2 - Task List.csproj.CoreCompileInputs.cache
+C:\Users\k8e_3\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+C:\Users\k8e_3\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
